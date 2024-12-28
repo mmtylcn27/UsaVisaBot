@@ -3,7 +3,7 @@
 Amerika vize randevusu için en yakın tarihe randevuyu çekmeye çalışır.
 
 Giriş yaptıktan sonra URL kısmından ScheduleId alabilirsiniz
-https://ais.usvisa-info.com/tr-tr/niv/schedule/*1111111*/appointment
+ais.usvisa-info.com/tr-tr/niv/schedule/*1111111*/appointment
 
 FacilityId ise 
 125 -> İstanbul
